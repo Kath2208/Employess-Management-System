@@ -1,0 +1,7 @@
+.brand-gradient{
+    background: #CF6911;
+    background: linear-gradient(to right, #CF6911 0%, #1DCF1D 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
